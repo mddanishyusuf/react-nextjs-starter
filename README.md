@@ -1,5 +1,5 @@
 # react-nextjs-starter
-Build and basic react universal application with Next.js. It's just starter to getting started with Next.js and It's really awesome library to build SSR(Server Side Rendering) Application with React.
+Build a basic react universal application with Next.js. It's just starter to getting started with Next.js and It's really awesome library to build SSR(Server Side Rendering) Application with React.
 
 # How to Use
 * git clone https://github.com/mddanishyusuf/react-nextjs-starter.git
